@@ -1,5 +1,5 @@
 import { SourceMap } from "magic-string"
-import { rm, writeFile } from "node:fs/promises"
+import { mkdir, rm, writeFile } from "node:fs/promises"
 import path from "node:path"
 import type * as Vite from "vite"
 import { generateCellRendererHash } from "./cell-renderers"
@@ -91,7 +91,10 @@ export const medusaVitePlugin: MedusaVitePlugin = (options) => {
     const formModule = await generateVirtualFormModule(sources, true)
     const displayModule = await generateVirtualDisplayModule(sources, true)
     const i18nModule = await generateVirtualI18nModule(sources, true)
-    const cellRendererModule = await generateVirtualCellRendererModule(sources, true)
+    const cellRendererModule = await generateVirtualCellRendererModule(
+      sources,
+      true
+    )
     const layoutModule = await generateVirtualLayoutModule(sources, true)
 
     // Create the index.js content that re-exports everything
@@ -133,6 +136,7 @@ export const medusaVitePlugin: MedusaVitePlugin = (options) => {
       switch (mode) {
         case Mode.PLUGIN: {
           const code = await generatePluginEntryModule(_sources)
+          await mkdir(path.dirname(pluginEntryFile), { recursive: true })
           await writeFile(pluginEntryFile, code, "utf-8")
           break
         }
