@@ -1,5 +1,15 @@
 # @medusajs/orchestration
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17408](https://github.com/medusajs/medusa/pull/17408) [`958ce349567b1c245688f6b97986a23447234d58`](https://github.com/medusajs/medusa/commit/958ce349567b1c245688f6b97986a23447234d58) Thanks [@medusa-agents](https://github.com/apps/medusa-agents)! - fix(orchestration): retry steps with retryIntervalAwaiting after they fail
+
+- Updated dependencies [[`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`26e58070c1661c14aedc02ee6cfb0b2bb28d497b`](https://github.com/medusajs/medusa/commit/26e58070c1661c14aedc02ee6cfb0b2bb28d497b), [`26e58070c1661c14aedc02ee6cfb0b2bb28d497b`](https://github.com/medusajs/medusa/commit/26e58070c1661c14aedc02ee6cfb0b2bb28d497b), [`7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5`](https://github.com/medusajs/medusa/commit/7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5)]:
+  - @medusajs/utils@2.22.2
+  - @medusajs/deps@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes

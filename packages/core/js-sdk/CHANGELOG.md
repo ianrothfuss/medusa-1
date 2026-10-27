@@ -1,5 +1,13 @@
 # @medusajs/js-sdk
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17527](https://github.com/medusajs/medusa/pull/17527) [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(dashboard,js-sdk,medusa): update qs to ^6.16.1
+
+- [#17505](https://github.com/medusajs/medusa/pull/17505) [`80deffc6ffdbd39d49036749a9806667d4235050`](https://github.com/medusajs/medusa/commit/80deffc6ffdbd39d49036749a9806667d4235050) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - fix(js-sdk): allow admin.upload.create in runtimes without a FileList global
+
 ## 2.22.1
 
 ### Patch Changes

@@ -1,5 +1,23 @@
 # @medusajs/dashboard
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17528](https://github.com/medusajs/medusa/pull/17528) [`6d38bc8773d8db0b928872f6376c3ee9196970ae`](https://github.com/medusajs/medusa/commit/6d38bc8773d8db0b928872f6376c3ee9196970ae) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(dashboard,telemetry,draft-order): update @babel/runtime to ^7.29.10
+
+- [#17527](https://github.com/medusajs/medusa/pull/17527) [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(dashboard,js-sdk,medusa): update qs to ^6.16.1
+
+- [#17528](https://github.com/medusajs/medusa/pull/17528) [`6d38bc8773d8db0b928872f6376c3ee9196970ae`](https://github.com/medusajs/medusa/commit/6d38bc8773d8db0b928872f6376c3ee9196970ae) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(dashboard): update @tanstack/react-virtual to ^3.14.22
+
+- [#17515](https://github.com/medusajs/medusa/pull/17515) [`7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5`](https://github.com/medusajs/medusa/commit/7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5) Thanks [@dependabot](https://github.com/apps/dependabot)! - chore(deps): bump zod from 4.2.0 to 4.6.6
+
+- Updated dependencies [[`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`6d38bc8773d8db0b928872f6376c3ee9196970ae`](https://github.com/medusajs/medusa/commit/6d38bc8773d8db0b928872f6376c3ee9196970ae), [`80deffc6ffdbd39d49036749a9806667d4235050`](https://github.com/medusajs/medusa/commit/80deffc6ffdbd39d49036749a9806667d4235050)]:
+  - @medusajs/js-sdk@2.22.2
+  - @medusajs/ui@4.2.9
+  - @medusajs/admin-shared@2.22.2
+  - @medusajs/icons@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes

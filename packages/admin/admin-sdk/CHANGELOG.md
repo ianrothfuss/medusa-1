@@ -1,5 +1,14 @@
 # @medusajs/admin-sdk
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17515](https://github.com/medusajs/medusa/pull/17515) [`7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5`](https://github.com/medusajs/medusa/commit/7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5) Thanks [@dependabot](https://github.com/apps/dependabot)! - chore(deps): bump zod from 4.2.0 to 4.6.6
+
+- Updated dependencies []:
+  - @medusajs/admin-shared@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes

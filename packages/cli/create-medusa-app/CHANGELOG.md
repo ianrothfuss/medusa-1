@@ -1,5 +1,17 @@
 # Change Log
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17527](https://github.com/medusajs/medusa/pull/17527) [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(create-medusa-app): update wait-on to ^9.5.1
+
+- [#17487](https://github.com/medusajs/medusa/pull/17487) [`1b554a9431d1845153976543898df358f8e1fa3f`](https://github.com/medusajs/medusa/commit/1b554a9431d1845153976543898df358f8e1fa3f) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - chore(create-medusa-app): remove unused validator dependency
+
+- Updated dependencies [[`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`6d38bc8773d8db0b928872f6376c3ee9196970ae`](https://github.com/medusajs/medusa/commit/6d38bc8773d8db0b928872f6376c3ee9196970ae), [`26e58070c1661c14aedc02ee6cfb0b2bb28d497b`](https://github.com/medusajs/medusa/commit/26e58070c1661c14aedc02ee6cfb0b2bb28d497b), [`7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5`](https://github.com/medusajs/medusa/commit/7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5)]:
+  - @medusajs/telemetry@2.22.2
+  - @medusajs/deps@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes

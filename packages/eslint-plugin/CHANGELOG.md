@@ -1,5 +1,11 @@
 # @medusajs/eslint-plugin
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17525](https://github.com/medusajs/medusa/pull/17525) [`f03b71a2be56746080e34e0eadbbeb658ca2f562`](https://github.com/medusajs/medusa/commit/f03b71a2be56746080e34e0eadbbeb658ca2f562) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(eslint-plugin): require @typescript-eslint/parser and @typescript-eslint/utils ^8.72.0
+
 ## 2.22.1
 
 ## 2.22.0

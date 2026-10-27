@@ -1,5 +1,11 @@
 # @medusajs/ui-preset
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17487](https://github.com/medusajs/medusa/pull/17487) [`1b554a9431d1845153976543898df358f8e1fa3f`](https://github.com/medusajs/medusa/commit/1b554a9431d1845153976543898df358f8e1fa3f) Thanks [@medusa-os-bot](https://github.com/apps/medusa-os-bot)! - chore(ui-preset): remove unused @tailwindcss/forms dependency. If your Tailwind config loads `@tailwindcss/forms`, add it to your project's dependencies.
+
 ## 2.22.1
 
 ## 2.22.0

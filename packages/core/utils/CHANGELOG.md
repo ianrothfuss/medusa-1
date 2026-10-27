@@ -1,5 +1,16 @@
 # @medusajs/utils
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17527](https://github.com/medusajs/medusa/pull/17527) [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(utils): update graphql to ^16.14.2
+
+- [#17533](https://github.com/medusajs/medusa/pull/17533) [`26e58070c1661c14aedc02ee6cfb0b2bb28d497b`](https://github.com/medusajs/medusa/commit/26e58070c1661c14aedc02ee6cfb0b2bb28d497b) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(utils): update pg-connection-string to ^2.14.1
+
+- Updated dependencies [[`26e58070c1661c14aedc02ee6cfb0b2bb28d497b`](https://github.com/medusajs/medusa/commit/26e58070c1661c14aedc02ee6cfb0b2bb28d497b), [`7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5`](https://github.com/medusajs/medusa/commit/7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5)]:
+  - @medusajs/deps@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes

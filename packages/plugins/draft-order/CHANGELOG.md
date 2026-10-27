@@ -1,5 +1,23 @@
 # @medusajs/draft-order
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17528](https://github.com/medusajs/medusa/pull/17528) [`6d38bc8773d8db0b928872f6376c3ee9196970ae`](https://github.com/medusajs/medusa/commit/6d38bc8773d8db0b928872f6376c3ee9196970ae) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(dashboard,telemetry,draft-order): update @babel/runtime to ^7.29.10
+
+- [#17515](https://github.com/medusajs/medusa/pull/17515) [`7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5`](https://github.com/medusajs/medusa/commit/7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5) Thanks [@dependabot](https://github.com/apps/dependabot)! - chore(deps): bump zod from 4.2.0 to 4.6.6
+
+- Updated dependencies [[`ca881e5e758c49cfcbac4130d7e626dc06f439a6`](https://github.com/medusajs/medusa/commit/ca881e5e758c49cfcbac4130d7e626dc06f439a6), [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`6d38bc8773d8db0b928872f6376c3ee9196970ae`](https://github.com/medusajs/medusa/commit/6d38bc8773d8db0b928872f6376c3ee9196970ae), [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`26e58070c1661c14aedc02ee6cfb0b2bb28d497b`](https://github.com/medusajs/medusa/commit/26e58070c1661c14aedc02ee6cfb0b2bb28d497b), [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`6d38bc8773d8db0b928872f6376c3ee9196970ae`](https://github.com/medusajs/medusa/commit/6d38bc8773d8db0b928872f6376c3ee9196970ae), [`6d38bc8773d8db0b928872f6376c3ee9196970ae`](https://github.com/medusajs/medusa/commit/6d38bc8773d8db0b928872f6376c3ee9196970ae), [`7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5`](https://github.com/medusajs/medusa/commit/7b34df35bf8e57ce0d2ab2373a624dc2cc573ca5), [`80deffc6ffdbd39d49036749a9806667d4235050`](https://github.com/medusajs/medusa/commit/80deffc6ffdbd39d49036749a9806667d4235050)]:
+  - @medusajs/framework@2.22.2
+  - @medusajs/test-utils@2.22.2
+  - @medusajs/dashboard@2.22.2
+  - @medusajs/cli@2.22.2
+  - @medusajs/js-sdk@2.22.2
+  - @medusajs/ui@4.2.9
+  - @medusajs/admin-sdk@2.22.2
+  - @medusajs/icons@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes

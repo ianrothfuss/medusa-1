@@ -1,5 +1,14 @@
 # @medusajs/auth
 
+## 2.22.2
+
+### Patch Changes
+
+- [#17532](https://github.com/medusajs/medusa/pull/17532) [`8e7ed5206e617b530512a25d7e0ee034479ea4dd`](https://github.com/medusajs/medusa/commit/8e7ed5206e617b530512a25d7e0ee034479ea4dd) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(auth): update otplib packages to ^13.5.0
+
+- Updated dependencies [[`ca881e5e758c49cfcbac4130d7e626dc06f439a6`](https://github.com/medusajs/medusa/commit/ca881e5e758c49cfcbac4130d7e626dc06f439a6), [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`26e58070c1661c14aedc02ee6cfb0b2bb28d497b`](https://github.com/medusajs/medusa/commit/26e58070c1661c14aedc02ee6cfb0b2bb28d497b)]:
+  - @medusajs/framework@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes

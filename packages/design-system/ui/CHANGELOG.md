@@ -1,5 +1,14 @@
 # @medusajs/ui
 
+## 4.2.9
+
+### Patch Changes
+
+- [#17528](https://github.com/medusajs/medusa/pull/17528) [`6d38bc8773d8db0b928872f6376c3ee9196970ae`](https://github.com/medusajs/medusa/commit/6d38bc8773d8db0b928872f6376c3ee9196970ae) Thanks [@shahednasser](https://github.com/shahednasser)! - chore(ui): update react-aria to ^3.53.1 and react-stately to ^3.51.0, and declare the directly imported @internationalized/date
+
+- Updated dependencies []:
+  - @medusajs/icons@2.22.2
+
 ## 4.2.8
 
 ### Patch Changes

@@ -1,5 +1,14 @@
 # @medusajs/pricing
 
+## 2.22.2
+
+### Patch Changes
+
+- [`bdf5c20c599c0d863886162a20d75a42c7ef7973`](undefined) - fix(pricing): don't charge a sale price above a matching override price
+
+- Updated dependencies [[`ca881e5e758c49cfcbac4130d7e626dc06f439a6`](https://github.com/medusajs/medusa/commit/ca881e5e758c49cfcbac4130d7e626dc06f439a6), [`9d55082bf9706e45b148100808f4d4550b9105bc`](https://github.com/medusajs/medusa/commit/9d55082bf9706e45b148100808f4d4550b9105bc), [`26e58070c1661c14aedc02ee6cfb0b2bb28d497b`](https://github.com/medusajs/medusa/commit/26e58070c1661c14aedc02ee6cfb0b2bb28d497b)]:
+  - @medusajs/framework@2.22.2
+
 ## 2.22.1
 
 ### Patch Changes
