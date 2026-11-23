@@ -28,7 +28,7 @@
     "@stefanprobst/rehype-extract-toc": "^3.0.0",
     "clsx": "^2.1.0",
     "docs-ui": "*",
-    "next": "16.4.2",
+    "next": "16.4.5",
     "next-mdx-remote-client": "2",
     "posthog-js": "^1.298.1",
     "posthog-node": "^5.29.0",
